@@ -37,7 +37,7 @@ I experemnted the machine with three samples images (straight person face, group
   
 - **Ex2:** <br />
   <img src="images/group.jpeg" width="500" /><br />
-  <img src="images/group.png" width="500" /><br />
+  <img src="images/detect_group.png" width="500" /><br />
 
 - **Ex3:** <br />
   <img src="images/maskw.jpeg" width="500" /><br />
